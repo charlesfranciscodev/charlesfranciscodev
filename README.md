@@ -60,7 +60,7 @@ Backend Developer with expertise in Machine Learning (ML) infrastructure, specia
 ## Links
 
 <p align="center">
-  <a href="https://charlesfranciscodev.github.io/"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a> <a href="https://ca.linkedin.com/in/charlesfranciscodev/en"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg" /> </a> <a href="https://www.youtube.com/@skylaborion"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://codeium.com/profile/charlesfrancisco"> <img src="https://img.shields.io/badge/-Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white" /> </a>
+  <a href="https://charlesfranciscodev.github.io/"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a> <a href="https://ca.linkedin.com/in/charlesfranciscodev/en"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg" /> </a> <a href="https://www.youtube.com/@ocean_sunrise"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://codeium.com/profile/charlesfrancisco"> <img src="https://img.shields.io/badge/-Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white" /> </a>
 </p>
 
 <p align="center">
